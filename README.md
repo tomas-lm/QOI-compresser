@@ -1,5 +1,5 @@
 # TP DE ICV - Compressor QOI (Quite Okay Image)
-### Alunos: Arthur <Sobrenome> - <Matricula>, César <Sobrenome> - <Matricula> e Tomas Lacerda - 2021088116
+### Alunos: Arthur Linhares Madureira - 2021031599, César Morais - 2021031521 e Tomas Lacerda - 2021088116
 
 ### Algoritmo QOI (Quite Okay Image)
 
